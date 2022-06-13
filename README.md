@@ -19,5 +19,5 @@ roslaunch ur3_moveit_config ur3_moveit_planning_execution.launch limited:=true
 ## 2.3 Visualize the robotic arm under Rviz
 roslaunch ur3_moveit_config moveit_rviz.launch config:=true
 
-# 3. start crawling
+# 3. start grab
 roslaunch grasp_demo start_server.launch
