@@ -1,0 +1,2 @@
+set(easy_handeye_MESSAGE_FILES "/home/bingcenliu/ur_work/src/easy_handeye/easy_handeye/msg/HandeyeCalibration.msg;/home/bingcenliu/ur_work/src/easy_handeye/easy_handeye/msg/SampleList.msg")
+set(easy_handeye_SERVICE_FILES "/home/bingcenliu/ur_work/src/easy_handeye/easy_handeye/srv/ComputeCalibration.srv;/home/bingcenliu/ur_work/src/easy_handeye/easy_handeye/srv/RemoveSample.srv;/home/bingcenliu/ur_work/src/easy_handeye/easy_handeye/srv/TakeSample.srv")

@@ -1,0 +1,15 @@
+(cl:defpackage grasp_demo-srv
+  (:use )
+  (:export
+   "CAMTOREAL"
+   "<CAMTOREAL-REQUEST>"
+   "CAMTOREAL-REQUEST"
+   "<CAMTOREAL-RESPONSE>"
+   "CAMTOREAL-RESPONSE"
+   "EYETOHAND"
+   "<EYETOHAND-REQUEST>"
+   "EYETOHAND-REQUEST"
+   "<EYETOHAND-RESPONSE>"
+   "EYETOHAND-RESPONSE"
+  ))
+

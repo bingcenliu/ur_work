@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<launch>
+   <node name="aruco" pkg="gazebo_ros" type="spawn_model" args="-file $(find easy_handeye)/urdf/model.sdf -sdf -model aruco -x 0.5 -y -0.036 -z 0.895 -R 1.57" />
+</launch>
